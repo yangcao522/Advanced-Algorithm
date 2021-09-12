@@ -1,4 +1,4 @@
-package DoorDash;
+package RandomQuestions;
 
 public class NumberOfIsland {
     class UF {
